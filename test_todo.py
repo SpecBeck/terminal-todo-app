@@ -1,4 +1,4 @@
-from project import seperate_flags, flag_check, collect_args, blank_check
+from todo import seperate_flags, flag_check, collect_args, blank_check
 import pytest
 import sys
 
