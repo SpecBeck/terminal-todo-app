@@ -1,0 +1,5 @@
+pip- installable libraries used:
+- rich: Terminal Text formatter
+- sqlite3: sqlite database
+- sys: Python systems library
+- pytest: Unit testing library
