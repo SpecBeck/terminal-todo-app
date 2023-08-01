@@ -40,3 +40,7 @@ The motivation behind this project was my day to day struggle remembering the ta
     The new-list, view and delete arguments support atmost three list operations simultaneously.
     The new-task, mark and remove arguments supports atmost two tasks in a single list at a time.
     The mark and remove arguments also support input as initials of the task to be marked/removed.
+
+
+## Next Steps
+Improving upon the codebase using more valid approach and succinct code.
